@@ -3,7 +3,7 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "com.Mapeio.hot"
     versionCode = "9"
-    version     = "0.1.0" >
+    version     = "9" >
 
 <!-- versionCode is optional and Android only -->
 
