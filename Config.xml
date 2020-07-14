@@ -1,22 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<widget xmlns   = "http://www.w3.org/ns/widgets"
-    xmlns:gap   = "http://phonegap.com/ns/1.0"
-    id          = "com.Mapeio.hot"
-    versionCode = "4"
-    version     = "4" >
-
-<!-- versionCode is optional and Android only -->
-
-  <name>Mapeio</name>
-
-  <description>
-      Welcome to Nomety.
-  </description>
-
-  <author href="https://redirectz.cf" email="eunaoseinfante@gmail.com">
-      Rick Astley bruh ZauZe
-  </author>
-    <preference name="Fullscreen" value="true"/>
-    <preference name="Orientation" value="landscape"/>
-
-</widget>
+<widget id="com.example.hello" version="cinquenta cinquenta">
+        <name>nigga game</name>
+        <description>
+            Ela e dangah
+        </description>
+        <author email="dev@callback.apache.org" href="http://cordova.io">
+            Zauce
+        </author>
+        <content src="index.html" />
+        <access origin="*" />
+        <preference name="Fullscreen" value="true" />
+        <preference name="WebViewBounce" value="true" />
+        <preference name="Orientation" value="landscape" />
+    </widget>
