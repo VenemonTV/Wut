@@ -17,5 +17,6 @@
       Rick Astley bruh ZauZe
   </author>
     <preference name="Fullscreen" value="true" />
+    <preference name="Orientation" value="landscape" />
 
 </widget>
