@@ -2,8 +2,8 @@
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "com.Mapeio.hot"
-    versionCode = "9"
-    version     = "9" >
+    versionCode = "4"
+    version     = "4" >
 
 <!-- versionCode is optional and Android only -->
 
@@ -16,7 +16,7 @@
   <author href="https://redirectz.cf" email="eunaoseinfante@gmail.com">
       Rick Astley bruh ZauZe
   </author>
-    <preference name="Fullscreen" value="true" />
-    <preference name="Orientation" value="landscape" />
+    <preference name="Fullscreen" value="true"/>
+    <preference name="Orientation" value="landscape"/>
 
 </widget>
