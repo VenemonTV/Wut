@@ -1,14 +1,22 @@
-<widget id="com.example.hello" version="cinquenta cinquenta">
-        <name>nigga game</name>
-        <description>
-            Ela e dangah
-        </description>
-        <author email="dev@callback.apache.org" href="http://cordova.io">
-            Zauce
-        </author>
-        <content src="index.html" />
-        <access origin="*" />
-        <preference name="Fullscreen" value="true" />
-        <preference name="WebViewBounce" value="true" />
-        <preference name="Orientation" value="landscape" />
-    </ widget >
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.bananas.hmm"
+    versionCode = "4"
+    version     = "Test v1" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Mapeio</name>
+
+  <description>
+      Welcome to the place o your nightmares.
+  </description>
+
+  <author href="https://build.phonegap.com" email="support@phonegap.com">
+      VenemonTV
+  </author>
+
+  <preference name="Orientation" value="landscape" />
+  <preference name="Fullscreen" value="true" />
+</widget>
