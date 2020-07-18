@@ -1,22 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
-    id          = "com.bananas.hmm"
-    versionCode = "4"
-    version     = "Test v1" >
+    id          = "com.mapeio.zoz"
+    versionCode = "4.0.0"
+    version     = "Test v2" >
 
 <!-- versionCode is optional and Android only -->
 
-  <name>Mapeio (test)</name>
+  <name>Mapeio</name>
 
   <description>
-      Welcome to the place o your nightmares.
+      Welcome to the place of your nightmares.
+      -Added Joystick!
   </description>
 
-  <author href="https://build.phonegap.com" email="support@phonegap.com">
+  <author href="https://gamejolt.com/@VenemonYT" email="matiaspereira2101@gmail.com">
       VenemonTV
   </author>
-
+   
+  <icon src="icon.png" />
+  <engine name="android" spec="https://github.com/apache/cordova-android#4.0.0" />
+  <preference name="KeepRunning" value="false"/>
   <preference name="Orientation" value="landscape" />
   <preference name="Fullscreen" value="true" />
 </widget>
